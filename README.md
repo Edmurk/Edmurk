@@ -5,7 +5,7 @@
  
  <div>
   <a href="https://github.com/Edmurk"></a>
-  <img align="right" alt="Ed-gif" height="400" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/eyes-unscreen.gif">
+  <img align="right" alt="Ed-gif" height="350" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/eyes-unscreen.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edmurk&show_icons=true&theme=shadow_red"/>
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmurk&layout=compact&langs_count=16&theme=shadow_red"/>
