@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&ht=70=1000&color=900404&center=true&vCenter=true&width=200&lines=Olá...;Sou+Edvaldo" alt="Typing SVG" /></a>
-
+</h1>
 ## 
  
  <div>
   <a href="https://github.com/Edmurk"></a>
-  <img align="right" alt="Ed-gif" height="350" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/eyes-unscreen.gif">
+  <img align="right" alt="Ed-gif" height="350" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/eyes-unscreen.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edmurk&show_icons=true&theme=shadow_red"/>
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmurk&layout=compact&langs_count=16&theme=shadow_red"/>
