@@ -4,7 +4,8 @@
 ## 
  
  <div>
-  <a href="https://github.com/Edmurk">
+  <a href="https://github.com/Edmurk"></a>
+  <img align="right" alt="Ed-gif" height="400" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/eyes-unscreen.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edmurk&show_icons=true&theme=shadow_red"/>
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmurk&layout=compact&langs_count=16&theme=shadow_red"/>
@@ -18,7 +19,6 @@
   <img align="center" alt="akuma-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <!--    <img align="center" alt="akuma" height="30" width="40" src=""> -->
   <img align="center" alt="akuma-tux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="right" alt="Ed-gif" height="100" width="auto" src="https://i.pinimg.com/originals/d5/7b/07/d57b07da053c88589a4a625113ee74c4.gif">
 </div>
 
   ##
