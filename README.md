@@ -1,11 +1,10 @@
 <div>
-  <img alt="devil" height="30" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/cala03.gif">
-  <img alt="devil" height="30" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/pentag-unscreen.gif">
-
-  <img align="right" alt="devil" height="30" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/cala03.gif">
-  <img align="right" alt="devil" height="30" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/pentag-unscreen.gif">
-
+  <img alt="devil" height="25" width="30" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/cala03.gif">
+  <img alt="devil" height="25" width="30" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/pentag-unscreen.gif">
+  <img align="right" alt="devil" height="25" width="30" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/cala03.gif">
+  <img align="right" alt="devil" height="25" width="30" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/pentag-unscreen.gif">
 </div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
