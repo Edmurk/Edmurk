@@ -1,8 +1,24 @@
-<div style="display: inline_block">
-  <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&ht=70=1000&color=900404&center=true&vCenter=true&width=200&lines=Olá...;Sou+Edvaldo" alt="Typing SVG" /></a>
-  </h1><img align="center" alt="bloodbar" height="40" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/blodbar.gif">
+<div>
+  <img alt="devil" height="30" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/cala03.gif">
+  <img alt="devil" height="30" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/pentag-unscreen.gif">
+
+  <img align="right" alt="devil" height="30" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/cala03.gif">
+  <img align="right" alt="devil" height="30" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/pentag-unscreen.gif">
+
 </div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&ht=70=1000&color=900404&center=true&vCenter=true&width=200&lines=Olá...;Sou+o+Edvaldo"   alt="Typing SVG">
+  </a>
+      <br>
+      <br>
+  <img alt="bloodbar" height="45" width="auto" src="https://github.com/Edmurk/Edmurk/blob/main/gifs/blodbar.gif">
+</div>
+
+<br>
+<br>
+<br>
 
  <div>
   <a href="https://github.com/Edmurk"></a>
